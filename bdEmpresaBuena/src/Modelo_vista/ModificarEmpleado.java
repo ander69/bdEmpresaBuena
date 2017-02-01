@@ -183,4 +183,5 @@ public class ModificarEmpleado extends JDialog {
 			JOptionPane.showMessageDialog(contentPanel, "Error al modificar empleado!", "Error", JOptionPane.ERROR_MESSAGE);
 		}
 	}
+	
 }
